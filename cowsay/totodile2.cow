@@ -1,0 +1,89 @@
+# totodile2
+# by <authorName>
+# Generated with Charc0al's cowsay file converter http://charc0al.github.io/cowsay-files/converter
+
+$x = "\e[m  ";          #reset color
+$t = "$thoughts ";
+$a = "\e[48;5;234m  ";
+$b = "\e[48;5;239m  ";
+$c = "\e[48;5;237m  ";
+$d = "\e[48;5;235m  ";
+$e = "\e[48;5;240m  ";
+$f = "\e[48;5;241m  ";
+$g = "\e[48;5;66m  ";
+$h = "\e[48;5;67m  ";
+$i = "\e[48;5;109m  ";
+$j = "\e[48;5;74m  ";
+$k = "\e[48;5;236m  ";
+$l = "\e[48;5;73m  ";
+$m = "\e[48;5;145m  ";
+$n = "\e[48;5;253m  ";
+$o = "\e[48;5;59m  ";
+$p = "\e[48;5;250m  ";
+$q = "\e[48;5;247m  ";
+$r = "\e[48;5;238m  ";
+$s = "\e[48;5;138m  ";
+$u = "\e[48;5;80m  ";
+$v = "\e[48;5;60m  ";
+$w = "\e[48;5;244m  ";
+$y = "\e[48;5;248m  ";
+$z = "\e[48;5;103m  ";
+$A = "\e[48;5;203m  ";
+$B = "\e[48;5;174m  ";
+$C = "\e[48;5;96m  ";
+$D = "\e[48;5;243m  ";
+$E = "\e[48;5;246m  ";
+$F = "\e[48;5;233m  ";
+$G = "\e[48;5;52m  ";
+$H = "\e[48;5;89m  ";
+$I = "\e[48;5;125m  ";
+$J = "\e[48;5;167m  ";
+$K = "\e[48;5;131m  ";
+$L = "\e[48;5;23m  ";
+$M = "\e[48;5;58m  ";
+$N = "\e[48;5;95m  ";
+$O = "\e[48;5;9m  ";
+$P = "\e[48;5;102m  ";
+$Q = "\e[48;5;30m  ";
+$R = "\e[48;5;108m  ";
+$S = "\e[48;5;8m  ";
+$T = "\e[48;5;72m  ";
+$U = "\e[48;5;65m  ";
+$V = "\e[48;5;187m  ";
+$W = "\e[48;5;180m  ";
+$X = "\e[48;5;230m  ";
+$Y = "\e[48;5;223m  ";
+$Z = "\e[48;5;151m  ";
+$aa = "\e[48;5;175m  ";
+$ab = "\e[48;5;204m  ";
+$ac = "\e[48;5;161m  ";
+$ad = "\e[48;5;29m  ";
+
+$the_cow = <<EOC
+          $t$a$b$c$d$e$f$d$x                  
+          $d$g$h$g  $i$j$h$k$x                
+          $g$j$l  $m$n$i$j$g$x                
+  $c$o$b$o$l    $g$p$n$q$g$l$r$x              
+$k$h$j$l      $g$r$s$m$p$e$j$f$x              
+$b$j$l$j    $u$h$v$w$y$i$l$j$g$s$w$c$x        
+$b$l              $g$h$l$j  $z$A$B$C$x        
+$c$D$f$E$D$F$G$H$I  $l$j    $l$J$K$o$L$M$x    
+  $G$x$d$x$b$N$K$I$N$l$j    $l$K$J$B  $f$x    
+        $r$N$J$O$J$D$j$g$l$j  $P$A  $K$b$x    
+          $N$O  $K$g$l$Q$l$j  $l$J$K$d$x      
+        $e$N$O$J$K$l$h$Q$l      $N$J$N$x      
+    $a$c$g$N$K  $E$l$L$g$R$l      $z$f$g$b$x  
+    $c$g$j$h$S$g$T$o$U$V  $l$u$j  $u$l  $b$x  
+    $r$l  $g$Q$g$V$W$V$X$Y$g  $l    $j$g$c$x  
+      $b$c  $L$P$X$V$X$Y$m$l$g$Q$L$Q$g$b$x$D$w$x
+            $e$g$Z$Y$V$i$l$j    $l  $g$d$w$aa$K$x
+          $F$h$l  $i$l$j  $l$j      $l  $s$ab$ac$x
+          $a$l    $j    $l  $j      $l$j$l$P$K$x
+            $g$j$l  $j  $l  $j      $h$l$j  $l$x
+            $r$l          $g$l$j  $l$ad$Q$g    $x
+        $d$g$l      $Q$L      $g$Q  $ad$L  $c$x
+        $k$v$g  $Q$L  $c$k$d$a$L$Q    $L$x    
+            $d$k$a$x          $e$l$h$g$L$c$x  
+                                $r$c  $k  $x  
+
+EOC
